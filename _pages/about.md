@@ -32,7 +32,9 @@ I am actively seeking Ph.D. positions starting in Fall 2025. If you are interest
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 main</div><img src='images/CodeJudge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-CodeJudge: Evaluating Code Generation with Large Language Models [[forum]](https://openreview.net/forum?id=ff7AsGzNJP)
+CodeJudge: Evaluating Code Generation with Large Language Models
+
+[[forum]](https://openreview.net/forum?id=ff7AsGzNJP) [[Github]](https://github.com/VichyTong/CodeJudge)
 
 Weixi Tong, Tianyi Zhang
 
