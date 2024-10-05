@@ -34,7 +34,7 @@ I am actively seeking Ph.D. positions starting in Fall 2025. If you are interest
 
 CodeJudge: Evaluating Code Generation with Large Language Models
 
-[[forum]](https://openreview.net/forum?id=ff7AsGzNJP) [[Github]](https://github.com/VichyTong/CodeJudge)
+[[PDF]](https://arxiv.org/pdf/2410.02184) [[Github]](https://github.com/VichyTong/CodeJudge)
 
 Weixi Tong, Tianyi Zhang
 
