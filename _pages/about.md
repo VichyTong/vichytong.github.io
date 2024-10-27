@@ -21,10 +21,10 @@ I am a fourth-year undergraduate student at Huazhong University of Science and T
 
 During my sophomore year, I collaborated with Prof. Jianzhu Ma at Peking University. In my junior year, I was advised by Prof. Tianyi Zhang at Purdue University. Currently, I am working with Prof. Lingming Zhang at UIUC. I feel honored to have the opportunity to work with such great professors! My research interests lie in advancing the development of **robust**, **efficient**, and **impactful AI systems**, particularly in **software engineering** (AI systems for programming) and **human-computer interaction** (human-centered AI systems).
 
-I am actively seeking Ph.D. positions starting in Fall 2025. If you are interested, please feel free to contact me at [weixitong@hust.edu.cn](weixitong@hust.edu.cn).
+> 🎓 I am actively seeking Ph.D. positions starting in Fall 2025. Please feel free to contact me at [weixitong@hust.edu.cn](weixitong@hust.edu.cn).
 
 # 🔥 News
-- *Sep. 2024*: &nbsp;🎉🎉 Excited to share that my work with Prof. Tianyi Zhang has been accepted to **EMNLP 2024**. Many thanks to Prof. Zhang!
+- *Sep. 2024*: &nbsp;🎉🎉 Excited to share that our work on using LLMs to evaluate code generation has been accepted to **EMNLP 2024**! Many thanks to Prof. Zhang!
  
 
 # 📝 Publications 
@@ -34,9 +34,9 @@ I am actively seeking Ph.D. positions starting in Fall 2025. If you are interest
 
 CodeJudge: Evaluating Code Generation with Large Language Models
 
-[[PDF]](https://arxiv.org/pdf/2410.02184) [[Github]](https://github.com/VichyTong/CodeJudge)
+[[PDF]](https://arxiv.org/pdf/2410.02184) [[Code]](https://github.com/VichyTong/CodeJudge)
 
-Weixi Tong, Tianyi Zhang
+*Weixi Tong*, Tianyi Zhang
 
 </div>
 </div>
