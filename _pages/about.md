@@ -19,9 +19,11 @@ redirect_from:
 
 I am a fourth-year undergraduate student at Huazhong University of Science and Technology (HUST), majoring in Computer Science and Technology.
 
-During my sophomore year, I collaborated with Prof. Jianzhu Ma at Peking University. In my junior year, I was advised by Prof. Tianyi Zhang at Purdue University. Currently, I am working with Prof. Lingming Zhang at UIUC. I feel honored to have the opportunity to work with such great professors! My research interests lie in advancing the development of **robust**, **efficient**, and **impactful AI systems**, particularly in **software engineering** (AI systems for programming) and **human-computer interaction** (human-centered AI systems).
+In Spring 2023, I joined Prof. Tianyi Zhang's group at Purdue University to study code generation and evaluation. I also worked on an HCI project with a Ph.D. student, Wei-Hao Chen. In Fall 2024, I worked with Prof. Lingming Zhang at UIUC to study automated program repair.
 
-> 🎓 I am actively seeking Ph.D. positions starting in Fall 2025. Please feel free to contact me at [weixitong@hust.edu.cn](weixitong@hust.edu.cn).
+My current research focuses on advancing large language models in Software Engineering and Human-Computer Interaction by enhancing both their reliability and human interaction capabilities. Specifically, I apply an LLM-based method to reliably evaluate code generation and develop a system that helps users create data wrangling scripts through interactive operations. By developing tools to make AI reliable and user-friendly, I hope to make advanced programming capabilities accessible to a broader audience.
+
+> 🎓 Weixi is actively seeking Ph.D. positions starting in Fall 2025.
 
 # 🔥 News
 - *Sep. 2024*: &nbsp;🎉🎉 Excited to share that our work on using LLMs to evaluate code generation has been accepted to **EMNLP 2024**! Many thanks to Prof. Zhang!
