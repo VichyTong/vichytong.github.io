@@ -23,6 +23,8 @@ In Spring 2023, I joined Prof. Tianyi Zhang's group at Purdue University to stud
 
 My current research focuses on advancing large language models in Software Engineering and Human-Computer Interaction by enhancing both their reliability and human interaction capabilities. Specifically, I apply an LLM-based method to reliably evaluate code generation and develop a system that helps users create data wrangling scripts through interactive operations. By developing tools to make AI reliable and user-friendly, I hope to make advanced programming capabilities accessible to a broader audience.
 
+You can find my CV [here](cv/Weixi-CV.pdf).
+
 > 🎓 Weixi is actively seeking Ph.D. positions starting in Fall 2025.
 
 # 🔥 News
