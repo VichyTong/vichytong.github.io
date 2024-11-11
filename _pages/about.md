@@ -19,13 +19,20 @@ redirect_from:
 
 I am a fourth-year undergraduate student at Huazhong University of Science and Technology (HUST), majoring in Computer Science and Technology.
 
-In Spring 2023, I joined Prof. Tianyi Zhang's group at Purdue University to study code generation and evaluation. I also worked on an HCI project with a Ph.D. student, Wei-Hao Chen. In Fall 2024, I worked with Prof. Lingming Zhang at UIUC to study automated program repair.
+In Spring 2023, I joined Prof. Tianyi Zhang's lab at Purdue University to study code generation and evaluation. I also collaborated on an HCI project with a Ph.D. student, Wei-Hao Chen. In Fall 2024, I worked with Prof. Lingming Zhang at UIUC on automated program repair.
 
-My current research focuses on studying reliable and efficient interactive way between human and AI systems. Specifically, I proposed an LLM-based framework to reliably evaluate code generation. I also developed a system that helps users create data wrangling scripts through interactive operations. By developing tools to make AI systems reliable and user-friendly, I hope to make advanced programming capabilities accessible to a broader audience reliably.
+My research interest lies in how to better leverage LLMs to generate code. Standing at the intersection of SE, HCI, and AI, I want to build reliable and helpful code generation systems for users. Specifically, I have three main research goals: 
 
-You can find my CV [here](cv/Weixi-CV.pdf).
+- developing trustworthy evaluation methods for code generation
+
+- detecting and mitigating hallucinations in LLM-generated code
+
+- designing user-friendly interfaces and novel interaction techniques to help users with different backgrounds use code generation tools.
 
 > 🎓 Weixi is actively seeking Ph.D. positions starting in Fall 2025.
+
+# 📄 CV
+You can find my CV [here](cv/Weixi-CV.pdf).
 
 # 🔥 News
 - *Sep. 2024*: &nbsp;🎉🎉 Excited to share that our work on using LLMs to evaluate code generation has been accepted to **EMNLP 2024**! Many thanks to Prof. Zhang!
