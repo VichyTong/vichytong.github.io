@@ -53,13 +53,11 @@ CodeJudge: Evaluating Code Generation with Large Language Models
 </div>
 
 # 🎖 Honors and Awards
-- *Sep. 2022* Self-Improvement Scholarship, HUST
-- *Nov. 2022* AI Education Base Scholarship 2022, Huawei Technologies Co., Ltd.
-- *Nov. 2023* AI Education Base Scholarship 2023, Huawei Technologies Co., Ltd.
+- *Sep. 2024* **Technology Innovation Scholarship**, HUST
+- *Nov. 2023* **AI Education Base Scholarship 2023**, Huawei Technologies Co., Ltd.
+- *Nov. 2022* **AI Education Base Scholarship 2022**, Huawei Technologies Co., Ltd.
+- *Oct. 2022* **Finalist**, Oceanbase Database Competition
 
 
 # 📖 Educations
 - *Sep. 2021 - Jun. 2025 (expected)*, BS in Computer Science and Technology, Huazhong University of Science and Technology (HUST), China.
-
-# 💻 Internships
-- *May 2023 - Sep. 2024*, AIGC Algorithm Engineer at Tuzhan AI, China.
